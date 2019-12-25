@@ -1,0 +1,22 @@
+{
+  "name": "aurora-operator-dashboard",
+  "version": "1.0.0",
+  "description": "Aurora Operator Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd aurora-operator-dashboard && ../node_modules/ionic/bin/ionic serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leovolpatto/aurora-operator-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leovolpatto/aurora-operator-dashboard/issues"
+  },
+  "homepage": "https://github.com/leovolpatto/aurora-operator-dashboard#readme",
+  "dependencies": {
+    "ionic": "^5.4.13"
+  }
+}
